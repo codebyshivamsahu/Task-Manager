@@ -1,0 +1,12 @@
+{
+  "name": "task-manager-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "nuxt": "^3.11.2"
+  }
+}
